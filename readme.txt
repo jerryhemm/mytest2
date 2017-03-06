@@ -1,0 +1,1 @@
+This is Git Test2 repository.
